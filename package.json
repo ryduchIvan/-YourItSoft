@@ -1,7 +1,7 @@
 {
   "name": "your-it-soft",
   "version": "0.1.0",
-  "homepage": "https://ryduchIvan.github.io/your-it-soft",
+  "homepage": "https://ryduchIvan.github.io/-YourItSoft",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
