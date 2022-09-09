@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/-YourItSoft/static/css/main.37316496.css",
+    "main.js": "/-YourItSoft/static/js/main.0bdaebe9.js",
+    "static/js/787.513dc3d4.chunk.js": "/-YourItSoft/static/js/787.513dc3d4.chunk.js",
+    "static/media/Sora-SemiBold.ttf": "/-YourItSoft/static/media/Sora-SemiBold.b639463bbd3a7e7c31f2.ttf",
+    "static/media/Sora-Regular.ttf": "/-YourItSoft/static/media/Sora-Regular.59e8cd26fdf2c27c0ec7.ttf",
+    "index.html": "/-YourItSoft/index.html",
+    "static/media/Vector 1.svg": "/-YourItSoft/static/media/Vector 1.43eacf0c9333b5d49fe3765e1e0b9f11.svg",
+    "main.37316496.css.map": "/-YourItSoft/static/css/main.37316496.css.map",
+    "main.0bdaebe9.js.map": "/-YourItSoft/static/js/main.0bdaebe9.js.map",
+    "787.513dc3d4.chunk.js.map": "/-YourItSoft/static/js/787.513dc3d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37316496.css",
+    "static/js/main.0bdaebe9.js"
+  ]
+}
